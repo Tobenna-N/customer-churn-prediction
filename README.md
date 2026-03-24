@@ -15,22 +15,22 @@ The project uses the Instacart Market Basket Analysis dataset:
 
 The workflow includes:
 
-Building customer-level behavioral features
-Defining churn based on purchasing patterns
-Performing exploratory data analysis
-Segmenting customers using K-Means clustering
-Training classification models (Logistic Regression and Random Forest)
+- Building customer-level behavioral features
+- Defining churn based on purchasing patterns
+- Performing exploratory data analysis
+- Segmenting customers using K-Means clustering
+- Training classification models (Logistic Regression and Random Forest)
 
 ## Key Insights
 
-Customers with longer gaps between orders are significantly more likely to churn
-Low-frequency customers have the highest churn risk
-High reorder rates are associated with strong customer loyalty
+- Customers with longer gaps between orders are significantly more likely to churn
+- Low-frequency customers have the highest churn risk
+- High reorder rates are associated with strong customer loyalty
 
 ## Results
 
-Logistic Regression ROC-AUC: 0.997
-Random Forest ROC-AUC: 1.00
+- Logistic Regression ROC-AUC: 0.997
+- Random Forest ROC-AUC: 1.00
 
 ## Technologies Used
 
