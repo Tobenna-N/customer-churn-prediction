@@ -6,10 +6,10 @@ This project analyzes customer purchasing behavior using Instacart transaction d
 ## Dataset
 
 The project uses the Instacart Market Basket Analysis dataset:
-3.4 million orders
-32 million product purchases
-206,000 customers
-49,000 products
+- 3.4 million orders
+- 32 million product purchases
+- 206,000 customers
+- 49,000 products
 
 ## Approach
 
